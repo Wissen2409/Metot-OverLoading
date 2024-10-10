@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Metot-OverLoading")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0498be2fdd24283b4c19e0d46858a5d2c823a611")]
 [assembly: System.Reflection.AssemblyProductAttribute("Metot-OverLoading")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Metot-OverLoading")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
